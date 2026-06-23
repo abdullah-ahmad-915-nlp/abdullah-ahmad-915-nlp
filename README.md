@@ -84,6 +84,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abdullah-ahmad-915-nlp/abdullah-ahmad-915-nlp/output/pacman.svg">
+<img src="https://raw.githubusercontent.com/abdullah-ahmad-915-nlp/abdullah-ahmad-915-nlp/output/pacman-contribution-graph-dark.svg">
 
 </div>
