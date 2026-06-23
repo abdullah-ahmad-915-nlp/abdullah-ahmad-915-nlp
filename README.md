@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans-serif&weight=700&size=48&duration=3500&pause=1000&color=0FF5F1&stroke=000000&strokeWidth=2&center=true&vCenter=true&width=1000&lines=Abdullah+Ahmad;AI+and+Machine+Learning;Software+Development;Deep+Learning;Natural+Language+Processing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=72&duration=3500&pause=2000&color=0FF5F1&stroke=000000&strokeWidth=2&center=true&vCenter=true&width=1000&width=1200&height=200&lines=Abdullah+Ahmad;AI+and+Machine+Learning;Software+Development;Deep+Learning;Natural+Language+Processing)](https://git.io/typing-svg)
 
 </div>
 
